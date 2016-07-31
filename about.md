@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm a second year undergraduate student currently studying at UCLA. I'm majoring in computer science while also pursuing a minor in Bioinformatics. I've had two research internships in my career, one at Boston University as well as one currently at the U.S Naval Research Laboratory in Washington D.C.
-
-I'm passionate about applying my knowledge of computer science and machine learning to areas in healthcare where we can really engineer better solutions for helping doctors and taking care of patients. 
-
+I am a Product Head currently working at Flipspaces based out of Mumbai. I have extensive hands on experience on Unity3D and Unreal Engine 4.
+Machine learning is where my primary interest lie. I have recently started pursuing that.
 ### Contact me
 
-[adeshpande3@g.ucla.edu](mailto:adeshpande3@g.ucla.edu)
+[praffulsahu@gmail.com](mailto:praffulsahu@gmail.com)
